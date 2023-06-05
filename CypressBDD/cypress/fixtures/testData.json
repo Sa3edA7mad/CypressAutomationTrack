@@ -1,0 +1,7 @@
+{
+  "userName" : "Admin",
+  "passWord" : "admin123",
+  "nickname" : "NickName",
+  "orderID" : "123456",
+  "expectedUserName" : "Magdalena Lozowska-Pereira Collings"
+}
