@@ -5,12 +5,12 @@ report.generate({
   metadata: {
     browser: {
       name: "chrome",
-      version: "XX",
+      version: "Version 114.0.5735.110 (Official Build) (64-bit)",
     },
     device: "Local test machine",
     platform: {
       name: "Windows",
-      version: "11",
+      version: "10",
     },
   },
 });
